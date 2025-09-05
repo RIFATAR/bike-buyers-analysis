@@ -1,9 +1,4 @@
-# Bike Buyer Analysis
 
-**Author:** RIFATAR  
-**Date:** September 6, 2025  
-**Tools Used:** Python (pandas, matplotlib), Microsoft Excel  
-**Project Inspiration:** Alex The Analyst YouTube Tutorial
 
 ## 1. Project Overview & Objective
 
