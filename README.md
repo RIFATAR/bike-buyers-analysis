@@ -96,21 +96,5 @@ This project successfully identified the profile of a likely bike buyer: **A mid
 
 This exercise solidified practical skills in **data cleaning, feature engineering, pivot analysis, and dashboard creation** in Microsoft Excel and Python.
 
-## How to Add This to Your LinkedIn & Resume
 
-### On LinkedIn
 
-- **Featured Section:** Write a shorter, punchier version of the above. Focus on the "what" and "so what."
-  - **Headline:** "Excel & Python Data Analysis Project: Identifying Bike Buyer Trends"
-  - **Description:** "Cleaned and analyzed a dataset of 1,000+ customers to build a predictive profile for bike purchases. Utilized advanced Excel functions, PivotTables, PivotCharts, and Python to uncover key insights, culminating in an interactive dashboard. Key finding: Purchase likelihood is highest among middle-aged, high-income individuals in the Pacific region. #DataAnalysis #Excel #Python #Dashboard"
-- **Add the Link:** Upload your project files or link to this repository and feature it with your post.
-
-### On Your Resume
-
-Create a “Projects” section:
-
-> **Bike Buyer Analysis Project** | September 2025  
-> – Engineered an `Age_Bracket` feature using Excel logical functions (`IF`, `IFS`) to categorize customers for better analysis.  
-> – Utilized PivotTables and PivotCharts to analyze relationships between income, region, commute distance, and purchase probability, identifying a 35% higher conversion rate in the Pacific region.  
-> – Developed an interactive dashboard with slicers to dynamically visualize key trends, enabling efficient data exploration and decision-making.  
-> – **Skills:** Data Cleaning, Data Analysis, Feature Engineering, PivotTables, Data Visualization, Dashboard Creation, Microsoft Excel, Python, pandas, matplotlib
