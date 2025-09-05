@@ -40,7 +40,7 @@ Before analysis, the data required preparation to ensure accuracy and usability.
 
 ## 4. Analysis & Methodology
 
-The analysis was conducted using both Python and Excel PivotTables/PivotCharts.
+The analysis was conducted usinMicrosoft Excel PivotTables and PivotCharts.
 
 **Key Questions Explored:**
 
@@ -52,7 +52,7 @@ The analysis was conducted using both Python and Excel PivotTables/PivotCharts.
 
 **Process:**
 
-1. Loaded the dataset into Python with pandas for initial exploration and summary statistics. Computed counts of buyers vs. non‑buyers by region.
+1. LPerformed initial data exploration and summary statistics directly in Excel. Computed counts of buyers vs. non-buyers by region using Excel functions.
 2. Built PivotTables in Excel to summarize the data by different dimensions.
 3. Used the "Purchased Bike" field as the core filter and report filter.
 4. Calculated percentages and averages to compare segments effectively.
@@ -60,7 +60,7 @@ The analysis was conducted using both Python and Excel PivotTables/PivotCharts.
 
 ## 5. Data Visualization & Dashboard
 
-An interactive dashboard was built to present the findings in an accessible and visually compelling way. In addition, a bar chart (`purchased_by_region.png`) was generated using matplotlib to illustrate the count of bike buyers and non-buyers across different regions.
+An interactive dashboard was built to present the findings in an accessible and visually compelling way. In addition, a bar chart created in Excel illustrates the count of bike buyers and non-buyers across different eregions.
 
 **Dashboard Components:**
 
@@ -73,7 +73,14 @@ An interactive dashboard was built to present the findings in an accessible and 
 - **Income Analysis:** A chart showing the distribution of income for buyers vs. non-buyers.
 - **Interactive Filters:** Slicers for Region, Education, and Occupation allow users to filter the entire dashboard dynamically and explore specific segments of the customer base.
 
-*Include a screenshot of your dashboard here or describe it: The dashboard features a clean layout with a neutral color scheme, using distinct colors to represent buyers and non-buyers for clear contrast.*
+### Dashboard Snapshot
+
+The following figure shows the interactive Excel dashboard built as part of this project. It provides slicers for marital status, region, and education on the left, and visualizations such as average income by gender, customer age bracket distribution, and commute distance trends. The dashboard uses distinct colors to represent buyers and non-buyers and offers an intuitive layout for exploring the data.
+
+![Bike Sales Dashboard](Dashboard.png)
+
+
+
 
 ## 6. Key Findings & Insights
 
@@ -89,7 +96,7 @@ The analysis revealed several strong correlations:
 
 This project successfully identified the profile of a likely bike buyer: **A middle-aged, higher-income professional living in the Pacific region, with a longer commute and fewer cars.** The interactive dashboard serves as a powerful tool for the marketing team to quickly understand customer demographics and tailor their campaigns accordingly.
 
-This exercise solidified practical skills in **data cleaning, feature engineering, pivot analysis, and dashboard creation** in Microsoft Excel and Python.
+This exercise solidified practical skills in **data cleaning, feature engineering, pivot analysis, and dashboard creation** in Microsoft Excel .
 
 
 
