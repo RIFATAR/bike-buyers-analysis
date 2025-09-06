@@ -52,7 +52,7 @@ The analysis was conducted usinMicrosoft Excel PivotTables and PivotCharts.
 
 **Process:**
 
-1. LPerformed initial data exploration and summary statistics directly in Excel. Computed counts of buyers vs. non-buyers by region using Excel functions.
+1. Performed initial data exploration and summary statistics directly in Excel. Computed counts of buyers vs. non-buyers by region using Excel functions.
 2. Built PivotTables in Excel to summarize the data by different dimensions.
 3. Used the "Purchased Bike" field as the core filter and report filter.
 4. Calculated percentages and averages to compare segments effectively.
